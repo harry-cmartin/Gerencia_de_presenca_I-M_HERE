@@ -6,6 +6,9 @@ Um sistema web eficiente para gerenciamento de presenças em reuniões e eventos
 
 O I'M HERE é uma aplicação web desenvolvida para facilitar o registro e controle de presenças em reuniões, eventos e encontros. Com uma interface intuitiva e moderna, o sistema permite gerenciar facilmente os participantes e gerar relatórios em PDF.
 
+![Image](https://github.com/user-attachments/assets/3cf04ded-f0fc-492c-823c-7c7918311617)
+
+
 ## Tecnologias Utilizadas
 
 <div align = "center">
